@@ -3,9 +3,6 @@ List of data types:
 By default some options are already present which
 we can make use to store the data
 '''
-
-
-
 '''
 How to create and use virtual environments in pycharm?
 File -> Settings -> project:python_training ->
