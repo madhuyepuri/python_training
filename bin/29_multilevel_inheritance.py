@@ -40,7 +40,7 @@ class Employee(Salary):
     # Requirement 3) currently, view_salary() methods returns 'salary' but
     #   modify view_salary method to return (salary-tax)
 
-    # POLYMORPHISM: We an use same name as super class
+    # POLYMORPHISM: We can use same name as super class
     def view_salary(self): # It will OVERRIDE super class view_salary
         # We can access super class method using 2 ways
         # 1-way
