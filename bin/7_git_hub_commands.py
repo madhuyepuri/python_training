@@ -81,3 +81,26 @@ cd to python_training directory
 4. git branch -M day_3_branch
 5. git push -u origin day_3_branch
 """
+"""
+Day-4 Code to Github
+
+cd to python_training directory
+
+1. git status
+2. git add --all
+3. git commit -m "my day-4 python code"
+4. git branch -M day_4_branch
+5. git push -u origin day_4_branch
+"""
+
+"""
+How to Pull?
+1. create directory say 'temp'
+2. git init
+3. Link Local-repository to github
+        git remote add origin https://github.com/mahadevaprabhug/python_training_.git
+4. 
+    git pull origin day_1_branch
+            OR
+    git pull origin day_2_branch
+"""
